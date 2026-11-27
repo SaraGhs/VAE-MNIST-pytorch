@@ -1,0 +1,10 @@
+{
+  "total_per_image": 106.80011767578125,
+  "bce_per_image": 80.77366328125,
+  "kl_per_image": 26.02645393066406,
+  "mean_reconstruction_mse_per_pixel": 0.00964393842658218,
+  "test_images": 10000,
+  "selected_epoch": 15,
+  "beta": 1.0,
+  "evaluation": "One fixed-seed latent sample per image for BCE/KL; posterior-mean decode for MSE"
+}

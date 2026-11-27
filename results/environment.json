@@ -1,0 +1,12 @@
+{
+  "python": "3.13.18",
+  "packages": {
+    "torch": "2.14.1+cpu",
+    "torchvision": "0.29.1+cpu",
+    "numpy": "2.4.6",
+    "matplotlib": "3.10.0"
+  },
+  "device": "cpu",
+  "cuda_runtime": null,
+  "reproducibility": "Fixed seeds; bitwise equality across platforms or versions is not guaranteed."
+}

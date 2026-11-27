@@ -1,0 +1,10 @@
+{
+  "disjoint_train_validation_indices": true,
+  "official_test_set_reserved": true,
+  "smoke_shape_and_gradient_checks_passed": true,
+  "reload_mean_reconstruction_match": true,
+  "selected_using_validation_only": true,
+  "training_images": 54000,
+  "validation_images": 6000,
+  "test_images": 10000
+}
